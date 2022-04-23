@@ -5,7 +5,7 @@ function display(form){
     if (form.username.value=="admin") { 
     if (form.password.value=="admin") 
       {              
-       location="api/home.html"
+       location="api/home.php"
       } 
        else {
        alert("Usuário Inválido")
