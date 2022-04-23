@@ -10,7 +10,7 @@ $pdf->SetTextColor(0,0, 128);//cor do texto no caso aqui está azul
 
 //imagem
 
-$pdf->Image('../img/favicon/android-icon-72x72.png');
+$pdf->Image('../assets/img/favicon/android-icon-72x72.png');
 
 //cabeçalho
 $pdf->SetFont('Arial','B',12);
